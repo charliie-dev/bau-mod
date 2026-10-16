@@ -1,0 +1,6 @@
+{
+  "name": "paiban",
+  "version": "0.1.0",
+  "description": "模型輸出「拍板」時，用預設瀏覽器播放指定的 YouTube 影片",
+  "author": { "name": "charliie-dev" }
+}

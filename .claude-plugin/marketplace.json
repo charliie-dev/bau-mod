@@ -1,0 +1,6 @@
+{
+  "name": "bau-mod",
+  "description": "Claude Code mod：模型說「拍板」就播放鐵面無私包青天",
+  "owner": { "name": "charliie-dev" },
+  "plugins": [{ "name": "paiban", "source": "./" }]
+}
